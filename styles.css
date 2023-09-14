@@ -1,0 +1,82 @@
+.header {
+    background-color: #631fa3f3;
+    color: #e24c10;
+    text-align: center;
+    padding: 1rem;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.flex-item1 {
+    background-image: url(https://static.lojanba.com/produtos/tenis-nike-kyrie-5-spongebob-squarepants-masculino/30/HZM-1814-030/HZM-1814-030_zoom1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 1;
+    border: 7px solid #ddd;
+    padding: 6rem;
+    min-width: 265px;
+}
+
+.flex-item2 {
+    background-image: url(https://static.lojanba.com/produtos/tenis-nike-kyrie-5-spongebob-squarepants-masculino/45/HZM-1814-645/HZM-1814-645_zoom1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 1;
+    border: 7px solid #ddd;
+    padding: 6rem;
+    min-width: 265px;
+}
+
+.flex-item3 {
+    background-image: url(https://static.lojanba.com/produtos/tenis-nike-kyrie-5-spongebob-squarepants-masculino/52/HZM-1814-152/HZM-1814-152_zoom1.jpg?ts=1565620397);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 1;
+    border: 7px solid #ddd;
+    padding: 6rem;
+    min-width: 265px;
+}
+
+.footer {
+    background-color: #631fa3f3;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    bottom: 0;
+    position: fixed;
+    width: 97.5%;
+    padding: 1rem;
+    gap: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    font-size: 16pt;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 35pt;
+    text-align: center;
+    color: #e24c10;
+}
+
+h2 {
+    font-size: 35pt;
+    text-align: center;
+    color: black;
+}
+
+h3 {}
